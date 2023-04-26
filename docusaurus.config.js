@@ -47,14 +47,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PICO-MAZING/PICO_MAZING',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PICO-MAZING/PICO_MAZING',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,12 +68,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo_picomazing.png',
       navbar: {
         title: 'PICO MAZING Docs',
         logo: {
           alt: 'PICO MAZING',
-          src: 'img/logo.svg',
+          src: 'img/logo_picomazing.svg',
         },
         items: [
           {

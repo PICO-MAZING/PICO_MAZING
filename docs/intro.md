@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Le projet PICO_MAZE est un projet de 4 étudiants en 2éme année du cycle d'ingénieur de 3IL Limoges. L'objectif est de créer des robots les plus petits possible et autnomes pour qu'ils résolvent des labyrinthes par coopération.
 
-## Cetee documentation se décompose en plusieurs parties. 
+## Cette documentation se décompose en plusieurs parties.
  - [Présentation du projet](/docs/intro)
  - [Création du Labirynthe](/docs/labirynthe)
  - [Création d'un Simulateur](/docs/simulateur)
@@ -14,7 +14,7 @@ Le projet PICO_MAZE est un projet de 4 étudiants en 2éme année du cycle d'ing
  - [Création du Serveur](/docs/server)
 
 
-# Philosphie
+# Philosophie
 
 Nos différents objectifs ont été de crée un Labirynthe, un robot (et son PCB) avec un raspberry pi pico qui tourne un Micro ROS, et un serveur ROS 2 qui gère les robots et le labirynthe.
 
