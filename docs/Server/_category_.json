@@ -1,8 +1,8 @@
 {
   "label": "Mise en place du serveur",
-  "position": 3,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Mise en place du serveur"
   }
 }

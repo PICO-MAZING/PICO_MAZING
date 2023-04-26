@@ -2,6 +2,10 @@
 sidebar_position: 2
 ---
 
-# Assemblages des pièces
+# Assemblage du robot
 
-// TODO - Remplir
+## MANUEL D’ASSEMBLAGE
+
+// TODO : à faire
+
+## VIDÉO D’ASSEMBLAGE

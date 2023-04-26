@@ -1,7 +1,8 @@
 {
   "label": "Création du Robot",
-  "position": 2,
+  "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Création du Robot"
   }
 }

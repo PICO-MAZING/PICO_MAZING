@@ -35,3 +35,12 @@ Nos MVP pour ce projet sont les suivants :
 - Faire bouger un robot dans un labirynthe
 
 ###  Difficultés
+
+
+# Sources
+
+- [ROS 2](https://docs.ros.org/en/foxy/index.html)
+- [Micro-ROS](https://micro.ros.org/)
+- [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/)
+- [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
+- [PICO-SDK](https://www.raspberrypi.com/documentation/pico-sdk/)
