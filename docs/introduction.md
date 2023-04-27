@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
 ---
-# INTRODUCTION
+# Introduction
 
 ### Images
 
-## CONTEXTE
+## Contexte
 
 Chaque année, 3iL propose à ses élèves de 2ème année de cycle ingénieur un projet leur permettant de développer leur savoir-faire, en réalisant un projet d’application professionnelle en complément de leur parcours technologique du semestre 7.
 
@@ -18,7 +18,7 @@ Il s’agissait donc de produire un support de communication exposant brièvemen
 
 Ce projet couvre un champ étendu de domaines: systèmes embarqués, robotique, conception 3D et électronique, et infrastructures systèmes.
 
-## ACTEURS
+## Acteurs
 
 **Client externe** : Romain MARIE / 3iL
 
@@ -30,11 +30,11 @@ Ce projet couvre un champ étendu de domaines: systèmes embarqués, robotique, 
 
 **Enseignant technique** : Romain MARIE / Jesus FRANCO ROBLES
 
-# FONCTIONNALITÉS
+# Fonctionnalités
 
-## CARACTÉRISTIQUES TECHNIQUES
+## Caractéristiques techniques
 
-### MATÉRIEL
+### Matériel
 
 | Composant                                   | Quantité  |
 | ------------------------------------------- | ---------- |
@@ -48,7 +48,7 @@ Ce projet couvre un champ étendu de domaines: systèmes embarqués, robotique, 
 | **Connectique PC**                    | Micro USB  |
 | **Mise à jour logiciel**             | Micro USB  |
 
-### COMPOSANTS
+### Composants
 
 | Pièce                              | Quantité |
 | ----------------------------------- | --------- |
@@ -70,6 +70,6 @@ Ce projet couvre un champ étendu de domaines: systèmes embarqués, robotique, 
 | Connecteur pile 9V                  | 1         |
 | Pile 9V (rechargeable)              | 1         |
 
-# MATÉRIEL OPEN SOURCE
+# Matériel Open Source
 
 Le Picobot est construit autour des composants suivants: châssis, moteurs, roues, microcontrôleur, capteurs, batterie. Le châssis du Picobot est un circuit imprimé sur lequel sont soudées des fiches permettant d’accueillir les différents composants du robot. Ce système permet de remplacer les composants défectueux, et d’utiliser le robot sous différentes configurations. Certaines parties du Picobot ont été réalisées par impression 3D. L’ensemble des fichiers de conception sont disponibles sur le répertoire du projet.
