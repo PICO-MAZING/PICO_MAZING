@@ -1,8 +1,8 @@
 {
-  "label": "CREATION DU LABYRINTHE",
+  "label": "Creation du labyrinthe",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "CREATION DU LABYRINTHE"
+    "description": "Creation du labyrinthe"
   }
 }
