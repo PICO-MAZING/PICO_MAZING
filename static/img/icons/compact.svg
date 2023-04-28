@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.37861251"
-     inkscape:cx="462.21399"
-     inkscape:cy="503.15294"
-     inkscape:window-width="1079"
+     inkscape:zoom="0.53543895"
+     inkscape:cx="406.20878"
+     inkscape:cy="465.97283"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -62,20 +62,29 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:39.6875, 39.6875;stroke-dashoffset:0;stop-color:#000000"
+       id="rect17429"
+       width="285.72217"
+       height="285.72217"
+       x="-10.569417"
+       y="-10.569417"
+       rx="5.6242714"
+       ry="5.6242714" />
     <circle
-       style="fill:none;stroke:#002834;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:23.8125, 23.8125;stroke-dashoffset:0;stop-color:#000000"
+       style="fill:none;stroke:#002834;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:39.6875,39.6875;stroke-dashoffset:0;stop-color:#000000"
        id="path234"
        cx="132.14282"
        cy="132.07281"
        r="118.56342" />
     <circle
-       style="fill:#005067;stroke:#002834;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
+       style="fill:#005067;stroke:#002834;stroke-width:5.29167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
        id="circle344"
-       cx="81.324928"
-       cy="183.25792"
+       cx="86.616592"
+       cy="177.96625"
        r="40.00201" />
     <path
-       style="fill:none;stroke:#002834;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleStart);stop-color:#000000"
+       style="fill:none;stroke:#002834;stroke-width:7.9375;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleStart);stop-color:#000000"
        d="M 212.59881,51.984375 C 138.67782,125.90536 136.49604,128.08715 136.49604,128.08715"
        id="path2437" />
   </g>
