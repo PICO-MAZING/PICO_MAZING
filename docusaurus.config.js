@@ -14,15 +14,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://PICO-MAZING',
+  url: 'https://PICO-MAZING.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'pico_mazing', // Usually your GitHub org/user name.
-  projectName: 'docpicomazing', // Usually your repo name.
+  organizationName: 'PICO-MAZING', // Usually your GitHub org/user name.
+  projectName: 'PICO-MAZING.github.io', // Usually your repo name.
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
