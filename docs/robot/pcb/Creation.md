@@ -5,10 +5,10 @@ sidebar_position: 2
 # Création technique du PCB
 
 ## Logiciels
-- [j'aioubliélenon] 
+- [fritzing](https://fritzing.org/)
 
 
 ## Réalisation
-Nous sommes passé par un prestataire : [j'aioubliélenon]
+Nous sommes passé par un prestataire : [Aisler](https://aisler.net/)
 
-// TODO - Remplir 
+<!-- // TODO - Remplir  -->

@@ -5,11 +5,14 @@ sidebar_position: 1
 # Réflexion sur la création du PCB
 
 ## Objectifs
-Nous sommes pas des éléctronicien, nous avons donc du apprendre à créer un PCB. Notre objectif est double apprendre à en réaliser un et de le faire en respectant les contraintes de notre projet.
-// TODO - plus d'explication
+
+<!-- // TODO - plus d'explication -->
 
 ## Contraintes
+Nous sommes pas des électroniciens, nous avons donc dû apprendre à créer un PCB. 
+Nos objectifs sont : d'apprendre à en réaliser un et le faire en respectant les contraintes de notre projet.
 - Le PCB doit être le plus petit possible
+
 
 ## Photos
 
@@ -17,8 +20,8 @@ Nous sommes pas des éléctronicien, nous avons donc du apprendre à créer un P
 
 ![PCB](./img/PCB2.jpg)
 
-// TODO - Expliquer les images
+<!-- // TODO - Expliquer les images -->
 
 ## Difficultés
-Après avoir réalisé le PCB, nous avons eu des difficultés à le faire fonctionner. Nous avons donc du faire des tests pour trouver les erreurs. Nous avons remarqué quelques erreurs de notre pars comme certains placement qui n'étais pas correcte. 
-// TODO - plus d'explication
+Après avoir réalisé le PCB, nous avons eu des difficultés à le faire fonctionner. Nous avons donc dû faire des tests pour trouver les erreurs. Nous avons remarqué quelques erreurs de notre part comme certains placement qui n'était pas correct. 
+<!-- // TODO - plus d'explication -->

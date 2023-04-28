@@ -11,4 +11,4 @@ sidebar_position: 1
 Notre Robot doit être le plus petit possible, tout en restant performant.
 Nous avons choisi différentes pièces
 
-// TODO expliquer le choix pour chaque pièces
+<!-- // TODO expliquer le choix pour chaque pièces -->
