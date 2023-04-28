@@ -11,4 +11,6 @@ sidebar_position: 1
 Notre Robot doit être le plus petit possible, tout en restant performant.
 Nous avons choisi différentes pièces
 
+![Picotbot](img/pico-dim-cote.png)
+
 <!-- // TODO expliquer le choix pour chaque pièces -->

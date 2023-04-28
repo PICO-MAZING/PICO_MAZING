@@ -8,6 +8,11 @@ Dans cette section nous nous attacherons à présenter une marche à suivre afin
 ## Mise en contexte
 
 Avant de commencer notre tutoriel, explicitons ce qui se cache derrière les termes que nous emploierons tout au long de ce guide.
+Vous pouvez retoruver les différentes parties de ce guide dans le menu de gauche.
+- [Labyrinthe](/labyrinthe/creation%20du%20labyrinthe.mdx)
+- [Robot](/robot/Developpement.md)
+- [Serveur](/serveur/installation.mdx)
+- (Algorithme de résolution) [Simulation](/simulateur/developpement.mdx)
 
 ### Raspberry Pi Pico W
 

@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Introduction
 
-### Images
+![Picobot](../static/img/pico-main-show.png)S
 
 ## Contexte
 
@@ -17,6 +17,7 @@ Il s’agissait donc de produire un support de communication exposant brièvemen
 À minima, nous devions donc proposer une solution de résolution de labyrinthe à partir d’un robot fonctionnant sous ROS, une plateforme de robotique enseignée à l’école.
 
 Ce projet couvre un champ étendu de domaines: systèmes embarqués, robotique, conception 3D et électronique, et infrastructures systèmes.
+
 
 ## Acteurs
 
