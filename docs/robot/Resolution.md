@@ -5,7 +5,7 @@ sidebar_position: 4
 # Résolution du Labyrinthe
 
 :::info
-Voir la partie [Réflexion sur la résolution de labyrinthe](../Simulateur/Theorie.mdx)
+Voir la partie [Réflexion sur la résolution de labyrinthe](../simulateur/Theorie.mdx)
 :::
 
 ## Lancer la node Labyrinthe

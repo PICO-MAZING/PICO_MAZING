@@ -36,7 +36,7 @@ Pour configurer le robot, veuillez suivre les instructions disponibles sur notre
 
 # Commandes de base
 
-Pour connecter le Picobot à ROS2, bien penser à lancer l’agent depuis le PC, [Voir la documentation serveur](../Server/Mise%20en%20place.mdx)
+Pour connecter le Picobot à ROS2, bien penser à lancer l’agent depuis le PC, [Voir la documentation serveur](../serveur/installation.mdx)
 
 :::tip
 Vous pouvez installer le serveur sur la même machine; vous pouvez le démarrer en executant la commande suivante: 
